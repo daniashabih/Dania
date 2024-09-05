@@ -11715,3 +11715,12 @@ a:hover {
 .navbar .nav-link.active {
   color: #030056 !important;
 }
+.text-danger{
+  color: #030056 !important;
+}
+.line {
+  display: block;
+  width: 25px;
+  height: 1.5px;
+  background-color: #030056 !important;
+}

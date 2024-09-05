@@ -11506,8 +11506,8 @@ pre .code {
   position: relative;
   height: 80vh;
   min-height: 600px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/header.jpg);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/header.jpg);
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/Emerging-web-design-.jpeg);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/Emerging-web-design-.jpeg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -11681,4 +11681,37 @@ pre .code {
   background: #F85C70;
   display: block;
   margin-top: 10px;
+}
+.btn-primary {
+  color: rgb(255, 255, 255);
+  background-color: #030056;
+  border-color: #030056;
+}
+.btn-primary:hover {
+  color: #030056;
+  background-color: white;
+  border-color: #030056;
+}
+.btn-outline-danger {
+  color: #030056;
+  border-color: #030056;
+}
+.btn-outline-danger:hover {
+  color: rgb(255, 255, 255);
+  background-color: #030056;
+  border-color: #030056;
+}
+a {
+  color: #030056;
+  text-decoration: none;
+  background-color: transparent;
+}
+a:hover {
+  color: #030056 !important;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.navbar .nav-link.active {
+  color: #030056 !important;
 }

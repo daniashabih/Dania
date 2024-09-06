@@ -11724,3 +11724,7 @@ a:hover {
   height: 1.5px;
   background-color: #030056 !important;
 }
+
+.bg-danger {
+  background-color: #030056 !important;
+}
